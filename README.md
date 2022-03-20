@@ -13,3 +13,16 @@
 ```
 
 Source: https://www.gosuslugi.ru/tls
+
+# OSINT Resources
+## CRT.SH
+* Subject Key Identifier / Match: =    Search: 'e1d181e5ce5a5f04aad2e9b69d66b1c5faac2c87'
+   * https://crt.sh/?ski=e1d181e5ce5a5f04aad2e9b69d66b1c5faac2c87
+* CA ID/Match: =    Search: '235725'
+   * https://crt.sh/?caid=235725
+* Identity/Match: ILIKE    Search: '%'    Issuer CA ID: 235725
+   * https://crt.sh/?Identity=%25&iCAID=235725
+ 
+ ## Censys
+ * Certificates with hash d26d2d0231b7c39f92cc738512ba54103519e4405d68b5bd703e9788ca8ecf31
+   * https://search.censys.io/certificates/help?q=parsed.fingerprint_sha256%3Ad26d2d0231b7c39f92cc738512ba54103519e4405d68b5bd703e9788ca8ecf31
