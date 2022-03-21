@@ -28,3 +28,12 @@ Source: https://www.gosuslugi.ru/tls
    * https://search.censys.io/certificates/help?q=parsed.fingerprint_sha256%3Ad26d2d0231b7c39f92cc738512ba54103519e4405d68b5bd703e9788ca8ecf31
 * Certificats with issuer `The Ministry of Digital Development and Communications`
    * https://search.censys.io/certificates?q=parsed.issuer_dn%3D%22C%3DRU%2C%20O%3DThe%20Ministry%20of%20Digital%20Development%20and%20Communications%2C%20CN%3DRussian%20Trusted%20Root%20CA%22
+
+## CRL links
+* http://reestr-pki.ru/cdp/rootca_ssl_rsa2022.crl
+* http://company.rt.ru/cdp/rootca_ssl_rsa2022.crl
+* http://rostelecom.ru/cdp/rootca_ssl_rsa2022.crl
+
+# Known domains using the new root CA certificate
+* https://ythm.ru/
+   * https://zabbix.ythm.ru/
