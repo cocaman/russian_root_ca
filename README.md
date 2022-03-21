@@ -23,11 +23,17 @@ Source: https://www.gosuslugi.ru/tls
 * Identity/Match: ILIKE    Search: '%'    Issuer CA ID: 235725
    * https://crt.sh/?Identity=%25&iCAID=235725
  
+### Intermediate certificats
+* Subject Key Identifier / Match: =    Search: 'd1e1710d0b2d814e6e8a4a8f4c23b34c5eab690b'
+   * https://crt.sh/?ski=d1e1710d0b2d814e6e8a4a8f4c23b34c5eab690b
+ 
  ## Censys
  * Certificates with hash d26d2d0231b7c39f92cc738512ba54103519e4405d68b5bd703e9788ca8ecf31
    * https://search.censys.io/certificates/help?q=parsed.fingerprint_sha256%3Ad26d2d0231b7c39f92cc738512ba54103519e4405d68b5bd703e9788ca8ecf31
 * Certificats with issuer `The Ministry of Digital Development and Communications`
    * https://search.censys.io/certificates?q=parsed.issuer_dn%3D%22C%3DRU%2C%20O%3DThe%20Ministry%20of%20Digital%20Development%20and%20Communications%2C%20CN%3DRussian%20Trusted%20Root%20CA%22
+* Certificats with issuer `The Ministry of Digital Development and Communications` and `Russian Trusted Sub CA`
+   * https://search.censys.io/certificates?q=parsed.issuer_dn%3D%22C%3DRU%2C+O%3DThe+Ministry+of+Digital+Development+and+Communications%2C+CN%3DRussian+Trusted+Sub+CA%22 
 
 ## CRL links
 * http://reestr-pki.ru/cdp/rootca_ssl_rsa2022.crl
@@ -37,3 +43,7 @@ Source: https://www.gosuslugi.ru/tls
 # Known domains using the new root CA certificate
 * https://ythm.ru/
    * https://zabbix.ythm.ru/
+* https://bratsk.city/
+* https://psi.promo.sber.ru/
+* https://dev4.webquik-test.sberbank.ru/
+* https://www.sberbank-com.os-psi.sberbank.ru/index
