@@ -47,3 +47,9 @@ Source: https://www.gosuslugi.ru/tls
 * https://psi.promo.sber.ru/
 * https://dev4.webquik-test.sberbank.ru/
 * https://www.sberbank-com.os-psi.sberbank.ru/index
+* https://www.ofukem.ru/
+* https://sberkids-t.sberbank.ru/
+* https://online.nrb.ru/
+* https://cbro-t.sberbank.ru/
+* https://geo-t.online.sberbank.ru/
+
