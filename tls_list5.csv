@@ -2,7 +2,7 @@ online-alpha.vtb.ru
 psi.sbbolmobiletest.sberbank.ru
 ib2.psbank.ru
 corporate.psbank.ru
-3ds.payment.ru  
+3ds.payment.ru
 business.psbank.ru
 mydss.psbank.ru
 push-ismg.psbank.ru
@@ -74,7 +74,7 @@ team.vtb.ru
 esmdtpep.vtb.ru
 fatca.vtb.ru
 idemo.vtb.ru
- ift-chat-sharing.vtb.ru
+ift-chat-sharing.vtb.ru
 psi-chat-sharing.vtb.ru
 hf-chat-sharing.vtb.ru
 k4-online.vtb24.ru
@@ -184,7 +184,7 @@ pension-fg.ru
 центральныйбанк.рф (XN--80AACOVIDOCD0AX3C9DN.XN--P1AI)
 центробанк.рф (XN--80ABLWMCEPR1B.XN--P1AI)
 твоя-россия.рф (XN----CTBTWBLIAC6KG.XN--P1AI)
- *.university.cbr.ru
+*.university.cbr.ru
 university.cbr.ru
 vcbr.ru
 3ds.vtb.ru
@@ -206,12 +206,12 @@ wac-ext02.msk.vtb.ru
 webcon02.msk.vtb.ru
 async-online.vtb.ru
 async-private.vtb.ru
- biz.vtb24.ru
- bo-gate-1c.vtb.ru
+biz.vtb24.ru
+bo-gate-1c.vtb.ru
 bco-gate-1c.vtb24.ru
 bo-gate-api.vtb.ru
 www.bo-gate-api.vtb.ru
- bo.vtb.ru
+bo.vtb.ru
 bo.vtb24.ru
 bco.vtb24.ru
 broker.vtb.ru
@@ -219,7 +219,7 @@ onlinebroker.ru
 www.onlinebroker.ru
 olb.ru
 www.olb.ru
- c.vtb.ru
+c.vtb.ru
 CRM-PERS-APP-1.dmz.vtb24.ru
 chat-sharing.vtb.ru
 cl.vtb.ru
@@ -344,11 +344,11 @@ ufscs.psi.sberbank.ru
 ncs25.sbrf.ru
 webquik.sberbank.ru
 *.webquik-test.sberbank.ru
- lt2-26.webquik-test.sberbank.ru
- ift3.webquik-test.sberbank.ru
+lt2-26.webquik-test.sberbank.ru
+ift3.webquik-test.sberbank.ru
 dev4.webquik-test.sberbank.ru
 lt2-048e.webquik-test.sberbank.ru
- st1e.webquik-test.sberbank.ru
+st1e.webquik-test.sberbank.ru
 sbi.sberbank.ru
 sbibz.sberbank.ru
 direct.sbbolmobile.sberbank.ru
@@ -460,16 +460,12 @@ open.ru
 *.payanyway.ru
 *.moneta.ru
 pkiservices.smpbank.ru
-lt2-26.webquik-test.sberbank.ru
-ift3.webquik-test.sberbank.ru
-st1e.webquik-test.sberbank.ru
 bank.woori.ru
 request.smpbank.ru
 *.transstroybank.ru
 ibank2.rostfinance.ru
 www.rostfinance.ru
 vp.ru
- smpbank.ru
 www.smpbank.ru
 *.kremlinbank.ru
 kremlinbank.ru
@@ -597,7 +593,6 @@ external-git.open.ru
 factoring.ofc.ru
 garant.open.ru
 ib.open.ru
- ipoteka.open.ru
 ipoteka.open.ru
 ipotekapartner.open.ru
 www.ipoteka.open.ru
@@ -614,7 +609,7 @@ nhds.open.ru
 pm.open.ru
 tfs-ext.open.ru
 www.nh.open.ru
- www.novokib.ru
+www.novokib.ru
 onivd.open.ru
 onivd-callback.open.ru
 work.open.ru
@@ -780,7 +775,6 @@ rosbank.ru
 testsbi.sberbank.ru
 *.sbbolmobiletest.sberbank.ru
 sbbolmobiletest.sberbank.ru
- edupirsms.testsbi.sberbank.ru
 bf.sberbank.ru
 sbbauto.sberbank.ru
 upgsbi.sberbank.ru
@@ -1122,80 +1116,77 @@ online.vbank.ru
 private-banking.ru
 *.rosbank-dom.ru
 rosbank-dom.ru
- *.rusfinance.ru
- rusfinance.ru
- *.deltacredit.ru
- deltacredit.ru
- 1.elecsnet.ru
- 1elecsnet.ru
- *.rosbank-leasing.ru
- rosbank-leasing.ru
- *.bm-bank.ru
- bm-bank.ru
- olabank.ru
- mail.olabank.ru
- st.olabank.ru
- sprint.olabank.ru
- school.olabank.ru
- lk.olabank.ru
- mob.olabank.ru
- auth.olabank.ru
- cards.olabank.ru
- *.rosbank-auto.ru
- rosbank-auto.ru
- *.rosbank-capital.ru
- rosbank-capital.ru
- uln-ix.ru
- www.uln-ix.ru
- lg.uln-ix.ru
- cacti.uln-ix.ru
- as112.uln-ix.ru
- banksoyuz.ru
- www.banksoyuz.ru
- tpsbank.tomsk.ru
- www.tpsbank.tomsk.ru
- sibsoc.ru
- www.sibsoc.ru
- sibsoc.com
- admoblkaluga.ru
- *.admoblkaluga.ru
+*.rusfinance.ru
+rusfinance.ru
+*.deltacredit.ru
+deltacredit.ru
+1.elecsnet.ru
+1elecsnet.ru
+*.rosbank-leasing.ru
+rosbank-leasing.ru
+*.bm-bank.ru
+bm-bank.ru
+olabank.ru
+mail.olabank.ru
+st.olabank.ru
+sprint.olabank.ru
+school.olabank.ru
+lk.olabank.ru
+mob.olabank.ru
+auth.olabank.ru
+cards.olabank.ru
+*.rosbank-auto.ru
+rosbank-auto.ru
+*.rosbank-capital.ru
+rosbank-capital.ru
+uln-ix.ru
+www.uln-ix.ru
+lg.uln-ix.ru
+cacti.uln-ix.ru
+as112.uln-ix.ru
+banksoyuz.ru
+www.banksoyuz.ru
+tpsbank.tomsk.ru
+www.tpsbank.tomsk.ru
+sibsoc.ru
+www.sibsoc.ru
+sibsoc.com
+admoblkaluga.ru
+*.admoblkaluga.ru
 cms.admoblkaluga.ru
 expe1.admoblkaluga.ru
 join.admoblkaluga.ru
- *.alefbank.ru
- alefbank.ru
+*.alefbank.ru
+alefbank.ru
 parking.spb.ru
- *.april-capital.ru
- april-capital.ru
- owa.april-capital.ru
- mail.april-capital.ru
- autodiscover.april-capital.ru
- cabinet.april-capital.ru
- 3ds.open.ru
- 3ds2.open.ru
- acs.open.ru
- mpi.open.ru
+*.april-capital.ru
+april-capital.ru
+owa.april-capital.ru
+mail.april-capital.ru
+autodiscover.april-capital.ru
+cabinet.april-capital.ru
+acs.open.ru
 internetbankmb.open.ru
 dbogate.ofc.ru
 dbo.ofc.ru
 pre-cb.open.ru
- grasaro.ru
- www.grasaro.ru
- *.psuti.ru
- *.psati.ru
- *.ds.psati.ru
- *.ingos.ru
- ingos.ru
- crediteurope.ru
- *.crediteurope.ru
- app.knomary.crediteurope.ru
- doc.genbank.ru
- tdoc.genbank.ru
- genbank.ru
- www.genbank.ru
- partner.genbank.ru
- editor.genbank.ru
- mail.genbank.ru
+grasaro.ru
+www.grasaro.ru
+*.psuti.ru
+*.psati.ru
+*.ds.psati.ru
+*.ingos.ru
+ingos.ru
+crediteurope.ru
+*.crediteurope.ru
+app.knomary.crediteurope.ru
+doc.genbank.ru
+tdoc.genbank.ru
+genbank.ru
+www.genbank.ru
+partner.genbank.ru
+editor.genbank.ru
+mail.genbank.ru
 ibank2.genbank.ru
 online.genbank.ru
 rdg.genbank.ru
@@ -1531,3 +1522,396 @@ vsesrazu-raiffeisen.ru
 www.vsesrazu-raiffeisen.ru
 *.d-cd.net
 d-cd.net
+ddei1.voz.ru
+ddei.voz.ru
+esmtp.voz.ru
+mex1.voz.ru
+ddei2.voz.ru
+mex2.voz.ru
+lyncdiscover.voz.ru
+dialin.voz.ru
+meet.voz.ru
+SfBext.voz.ru
+webservices.voz.ru
+demodbo.ofc.ru
+sipsfb.voz.ru
+sip.voz.ru
+webconfsfb.voz.ru
+*.raiffeisen.ru
+raiffeisen.ru
+rzb.ru
+*.raif.ru
+raif.ru
+*.rzb.ru
+*.sovcombank.credit
+sovcombank.credit
+*.scb-vdi.ru
+scb-vdi.ru
+*.sovcombank-leasing.ru
+sovcombank-leasing.ru
+*.sovcomlife.ru
+sovcomlife.ru
+*.halvacard.ru
+halvacard.ru
+*.sergeykhotimskiy.ru
+sergeykhotimskiy.ru
+*.i.doktor.kr
+i.doktor.kr
+*.sovcombank.business
+sovcombank.business
+solarlab.ru
+www.solarlab.ru
+*.solarlab.ru
+ibank.sistemabank.ru
+*.billing74info.ru
+billing74info.ru
+crpt.ru
+www.crpt.ru
+*.crpt.ru
+sdco.ru
+www.sdco.ru
+*.sdco.ru
+alianta.ru
+www.alianta.ru
+*.alianta.ru
+gibank.ru
+*.gi-bank.ru
+gi-bank.ru
+кб-гарант-инвест.рф (xn-----7kcackduzn2bc8avjg.xn--p1ai)
+*.кб-гарант-инвест.рф (*.xn-----7kcackduzn2bc8avjg.xn--p1ai)
+кб-гарантинвест.рф (xn----8sbabidrwm9ab6atjf.xn--p1ai)
+*.кб-гарантинвест.рф (*.xn----8sbabidrwm9ab6atjf.xn--p1ai)
+ги-банк.рф (xn----8sbcgzpu.xn--p1ai)
+*.ги-банк.рф (*.xn----8sbcgzpu.xn--p1ai)
+гибанк.рф (xn--80abfumr.xn--p1ai)
+*.гибанк.рф (*.xn--80abfumr.xn--p1ai)
+tax23.ru
+www.tax23.ru
+*.tax23.ru
+ns.aviashelf.ru
+*.aviashelf.ru
+*.ft-crypto.ru
+ft-crypto.ru
+*.spbexchange.ru
+spbexchange.ru
+*.mse.ru
+mse.ru
+kubankredit.ru
+www.kubankredit.ru
+nsapp.kubankredit.ru
+nswi.kubankredit.ru
+pay-test.kubankredit.ru
+rdgw.kubankredit.ru
+web-postfix.kubankredit.ru
+bsk-test.kubankredit.ru
+kbdemo.kubankredit.ru
+kbtest.kubankredit.ru
+bsk.kubankredit.ru
+express.kubankredit.ru
+lk.kubankredit.ru
+ref.kubankredit.ru
+start.kubankredit.ru
+vip.kubankredit.ru
+promo.kubankredit.ru
+infinite.kubankredit.ru
+factoring.kubankredit.ru
+credit.kubankredit.ru
+assist24.kubankredit.ru
+exp-e.kubankredit.ru
+join.kubankredit.ru
+sig-assist24.kubankredit.ru
+yo-assist24.kubankredit.ru
+is.kubankredit.ru
+kb.kubankredit.ru
+pay.kubankredit.ru
+portal.kubankredit.ru
+moskb.ru
+www.moskb.ru
+*.moskb.ru
+nso.ru
+www.nso.ru
+*.nso.ru
+ios-up1-asbs.online.sberbank.ru
+and-up1-asbs.online.sberbank.ru
+ios-up2-asbs.online.sberbank.ru
+and-up2-asbs.online.sberbank.ru
+ios-up3-asbs.online.sberbank.ru
+and-up3-asbs.online.sberbank.ru
+ios-up4-asbs.online.sberbank.ru
+and-up4-asbs.online.sberbank.ru
+ios-up5-asbs.online.sberbank.ru
+and-up5-asbs.online.sberbank.ru
+ios-up6-asbs.online.sberbank.ru
+and-up6-asbs.online.sberbank.ru
+ios-up7-asbs.online.sberbank.ru
+and-up7-asbs.online.sberbank.ru
+ios-upgf-asbs.online.sberbank.ru
+and-upgf-asbs.online.sberbank.ru
+ios-upsi-asbs.online.sberbank.ru
+and-upsi-asbs.online.sberbank.ru
+ios-upsi2-asbs.online.sberbank.ru
+and-upsi2-asbs.online.sberbank.ru
+pro2.smartoffice.sberbank.ru
+pro2-1.smartoffice.sberbank.ru
+pro2-2.smartoffice.sberbank.ru
+uat2.smartoffice.sberbank.ru
+uat2-1.smartoffice.sberbank.ru
+uat2-2.smartoffice.sberbank.ru
+ift2.smartoffice.sberbank.ru
+developer.sber.ru
+developers.sber.ru
+www.developers.sber.ru
+www.developer.sber.ru
+smartmarket.sber.ru
+www.smartmarket.sber.ru
+catalog.smartmarket.sber.ru
+www.catalog.smartmarket.sber.ru
+vpstest.online.sberbank.ru
+nlp2vpspsi.online.sberbank.ru
+nlp2vpsift.online.sberbank.ru
+vpstest2.online.sberbank.ru
+axrobot.online.sberbank.ru
+nlp2vps.online.sberbank.ru
+b2evps.online.sberbank.ru
+b2bvps.online.sberbank.ru
+vps.online.sberbank.ru
+eis.online.sberbank.ru
+iftmpclickstream.testonline.sberbank.ru
+*.sigma.sbrf.ru
+*.vm.mos.cloud.sbrf.ru
+*.vm.esrt.cloud.sbrf.ru
+smartmarket.online.sberbank.ru
+salute.online.sberbank.ru
+smartapp.online.sberbank.ru
+*.sbermenu.sberbank.ru
+sbermenu.sberbank.ru
+smartapp-code.sberdevices.ru
+smartapp-graph.sberdevices.ru
+cbro-t.testonline.sberbank.ru
+cbro.online.sberbank.ru
+cbro-t.sberbank.ru
+*.sberhelp.sber.ru
+cbro.sberbank.ru
+smartspeech.sber.ru
+osago.sberbank.ru
+ksu.edu.ru
+*.ksu.edu.ru
+oao-ntek.ru
+*.oao-ntek.ru
+lk.bashgaz.ru
+shop.bashgaz.ru
+www.bashgaz.ru
+bashgaz.ru
+lkp.bashgaz.ru
+cmd-online.ru
+amplisens.ru
+crie.ru
+cmd.su
+www.partnercmd.ru
+*.ruhiv.ru
+ruhiv.ru
+pcr.ru
+www.hivresist.ru
+www.epid-oki.ru
+*.labtest.ru
+labtest.ru
+www.hepreg.ru
+www.nkkdc.ru
+*.ofukem.ru
+ofukem.ru
+biz360.ru
+www.biz360.ru
+kbki.ru
+*.kbki.ru
+*.ikb-rs.ru
+ikb-rs.ru
+test.ikb-rs.ru
+*.myworkcard.ru
+www.myworkcard.ru
+wssoap.genbank.ru
+*.solid.ru
+*.ot.ru
+ot.ru
+www.ot.ru
+*.bbr.ru
+bbr.ru
+*.fsin.gov.ru
+fsin.gov.ru
+ibank2test-m.osdo.mmbank.ru
+www.ibank2test-m.osdo.mmbank.ru
+www.new-lk-developer.vtb.ru
+www.mobile.broker.vtb.ru
+www.webquikdemo.vtb.ru
+chat-alpha.vtb.ru
+www.chat-alpha.vtb.ru
+www.lk.broker.vtb.ru
+ibank.mmbank.ru
+www.ibank.mmbank.ru
+www.webquik.vtb.ru
+www.wimapi.vtb.ru
+www.quikm.vtb.ru
+www.lk.olb.ru
+*.integration-solution.sber247.ru
+integration-solution.sber247.ru
+www.spasibosberbank.ru
+spasibosberbank.ru
+*.uat.sberxba.ru
+uat.sberxba.ru
+*.sber247.ru
+sber247.ru
+*.sberxba.ru
+sberxba.ru
+friend-ift.enablers.sbrf.ru
+api.spasibosberbank.ru
+friend-psi.sber.ru
+friend.sber.ru
+*.tele2med.ru
+namex.org
+www.namex.org
+*.citto.ru
+mobile-api.av.admtyumen.ru
+mont.ru
+*.mont.ru
+andreytravnikov.ru
+www.andreytravnikov.ru
+npazsnso.ru
+www.npazsnso.ru
+nsopravo.ru
+www.nsopravo.ru
+zsnso.ru
+www.zsnso.ru
+*.zsnso.ru
+*.drive2.ru
+drive2.ru
+payctrltest.bm-bank.ru
+payctrltest.vbank.ru
+online2.bm-bank.ru
+online2.bankcard.ru
+onlinedev.vbank.ru
+cbtest.bm-bank.ru
+cbtest.vbank.ru
+demodbo.vbank.ru
+acstest.vbank.ru
+dbo2.kuzbank.ru
+dbo5.kuzbank.ru
+portal.kuzbank.ru
+retail.kuzbank.ru
+retail5.kuzbank.ru
+bsoinsur.ru
+www.bsoinsur.ru
+*.bsoinsur.ru
+bsoinsur.online
+www.bsoinsur.online
+*.bsoinsur.online
+*.ra.rnrc.ru
+ra.rnrc.ru
+*.rnrc.ru
+rnrc.ru
+tes.ru
+petrsu.ru
+www.petrsu.ru
+*.petrsu.ru
+kurgan-telecom.net
+www.kurgan-telecom.net
+*.kurgan-telecom.net
+*.technologiya.ru
+skbbank.ru
+*.skbbank.ru
+sinara.ru
+*.sinara.ru
+delo.ru
+*.delo.ru
+*.paritet.ru
+paritet.ru
+*.gorinfo.net
+gorinfo.net
+www.gorinfo.net
+zskuzbass.ru
+www.zskuzbass.ru
+vks.zskuzbass.ru
+*.egisz.rosminzdrav.ru
+egisz.rosminzdrav.ru
+www.egisz.rosminzdrav.ru
+*.rosminzdrav.ru
+rosminzdrav.ru
+www.rosminzdrav.ru
+ggnpsales.ru
+www.ggnpsales.ru
+mail.ggnpsales.ru
+cgp.ggnpsales.ru
+r7.ggnpsales.ru
+xmpp.ggnpsales.ru
+tessa.ggnpsales.ru
+www.ggnp-sales.ru
+ggnp-sales.ru
+mail.ggnp-sales.ru
+*.bank131.ru
+*.131.ru
+*.gemotest.ru
+pnpi.nrcki.ru
+*.pnpi.nrcki.ru
+*.pnpi.nw.ru
+tamcomsys.ru
+www.tamcomsys.ru
+ltraveler.tamcomsys.ru
+lmail.tamcomsys.ru
+ib.psbank.ru
+test-lk-ecomm.psbank.ru
+office.psbank.ru
+mydsstst.psbank.ru
+*.mdm.psbank.ru
+tortuga.sberbank.ru
+www.tortuga.sberbank.ru
+*.tortuga.sberbank.ru
+lightcab.ru
+www.lightcab.ru
+*.lightcab.ru
+43.rospotrebnadzor.ru
+www.43.rospotrebnadzor.ru
+rpnkirov.ru
+www.rpnkirov.ru
+lk.besteffortsbank.ru
+lk.alorbank.ru
+lk.beforts.ru
+*.depository.ru
+depository.ru
+*.custody.ru
+custody.ru
+reso.ru
+*.reso.ru
+*.rshb-ins.ru
+www.rshb-ins.ru
+fos.rshb-ins.ru
+fosedu.rshb-ins.ru
+fostest.rshb-ins.ru
+fosrls.rshb-ins.ru
+finuslugi.ru
+www.finuslugi.ru
+*.finuslugi.ru
+www.финуслуги.рф(www.xn--c1ajbkjyncd.xn--p1ai)
+финуслуги.рф(xn--c1ajbkjyncd.xn--p1ai)
+www.52.rospotrebnadzor.ru
+mail.52.rospotrebnadzor.ru
+pop.52.rospotrebnadzor.ru
+smtp.52.rospotrebnadzor.ru
+52.rospotrebnadzor.ru
+mitcoms.ru
+*.mitcoms.ru
+drgb.acron.ru
+*.drgb.acron.ru
+*.slbank.ru
+slbank.ru
+www.slbank.ru
+1.psbank.ru
+newbusiness.psbank.ru
+conversion.psbank.ru
+f1.psbank.ru
+f1s.psbank.ru
+pay.rkcgkh.ru
+www.pay.rkcgkh.ru
+axion.ru
+www.axion.ru
+*.axion.ru
+online.solid.ru
+gebank.ru
+*.gebank.ru
