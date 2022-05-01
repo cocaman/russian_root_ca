@@ -4069,6 +4069,17 @@ autodiscover.sogaz-med.ru
 owa.sogaz-med.ru
 *.givc.ru
 bonus.ingos.ru
+sberapps.sber.ru
+sberapps-dev-qa.sber.ru
+*.sberapps.sber.ru
+*.sberapps-test.sber.ru
+sberapps-test.sber.ru
+*.geosteering.ru
+*.sberapps-dev.sber.ru
+sberapps-dev.sber.ru
+*.sberapps-dev-qa.sber.ru
+*.online.geosteering.ru
+*.corp.geosteering.ru
 *.mbkuban.ru
 pay.elecsnet.ru
 *.rrbank.ru
